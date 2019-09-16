@@ -1,8 +1,0 @@
-this is my test for add one file.
-this is dev's test.
-test again.
-<<<<<<< HEAD
-tag test1.
-=======
-liangmengqian's test.
->>>>>>> daaf963288c97e57db6d746a87d190800f9829e1
